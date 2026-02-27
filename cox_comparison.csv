@@ -1,0 +1,4 @@
+Modele,C_index,N_features,Violations
+Cox stratifié,0.6249000232043259,6,Stratification B_RESMAT
+Cox interactions,0.9922180313327752,9,Interactions temporelles
+Cox simplifié (retenu),0.567986098019221,5,Aucune
